@@ -10,7 +10,7 @@ export default {
         'poppins': ['Poppins']
       },
       backgroundImage: {
-        'todo' : "url(./public/todo.png)",
+        'todo' : "url(../src/assets/todo.png)",
         'todobg' : "url(https://t4.ftcdn.net/jpg/03/61/01/89/360_F_361018944_HkcCYRsgv14bXoe8MEYxfQoZEG39rdry.jpg)"
       }
     },
